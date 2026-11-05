@@ -307,3 +307,4 @@ def create_multi_head_movement_chart(
     )
 
     return fig
+

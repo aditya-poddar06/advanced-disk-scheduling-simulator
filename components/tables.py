@@ -120,3 +120,4 @@ def format_metrics_summary(metrics: dict[str, Any], result: SchedulingResult) ->
         data.append({"Metric": "Initial Direction", "Value": result.direction.capitalize()})
 
     return pd.DataFrame(data)
+

@@ -119,3 +119,4 @@ class TestChartGeneration:
 
         assert isinstance(fig, go.Figure)
         assert len(fig.data) == 4
+
