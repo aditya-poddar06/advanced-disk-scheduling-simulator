@@ -98,7 +98,7 @@ Open your web browser and navigate to `http://localhost:8501`.
 
 ---
 
-## 🧪 Running Automated Tests
+## 🧪 Running Automated Tests.
 
 Run the Pytest suite to verify algorithm correctness, metrics, and UI components:
 
